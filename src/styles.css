@@ -1,0 +1,15 @@
+.catch-me {
+  position: relative;
+  cursor: pointer;
+  top: 50%;
+  left: 50%;
+  transition: 250ms ease-in-out;
+  background-color: blueviolet;
+  height: 100px;
+  width: 100px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  color: azure;
+}
